@@ -1,0 +1,401 @@
+<ProductCatalog>
+
+
+<PhoneCatalog>
+<phone id="AppleiPhone12Mini">
+<name>Apple iPhone 12 Mini</name>
+<price>499.99</price>
+<image>Apple iPhone 12 Mini.jpg</image>
+<manufacturer>Apple</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</phone>
+<phone id="AppleiPhone13Pro">
+<name>Apple iPhone 13 Pro</name>
+<price>899.99</price>
+<image>Apple iPhone 13 Pro.jpg</image>
+<manufacturer>Apple</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</phone>
+<phone id="AppleiPhoneSE">
+<name>Apple iPhone SE</name>
+<price>651.99</price>
+<image>Apple iPhone SE.jpg</image>
+<manufacturer>Apple</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</phone>
+<phone id="OnePlus9">
+<name>OnePlus9</name>
+<price>289.99</price>
+<image>OnePlus 9.jpg</image>
+<manufacturer>OnePlus</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+<accessories>
+<accessory>OnePlusBuds</accessory>
+</accessories>
+<accessories>
+<accessory>OnePlusWarpCharger</accessory>
+</accessories>
+</phone>
+<phone id="OnePlus10Pro">
+<name>OnePlus10Pro</name>
+<price>799.99</price>
+<image>OnePlus 10 Pro.jpg</image>
+<manufacturer>OnePlus</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+<accessories>
+<accessory>OnePlusBuds</accessory>
+</accessories>
+<accessories>
+<accessory>OnePlusWarpCharger</accessory>
+</accessories>
+</phone>
+<phone id="OnePlus10T">
+<name>OnePlus10T</name>
+<price>882.95</price>
+<image>OnePlus 10T.jpg</image>
+<manufacturer>OnePlus</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+<accessories>
+<accessory>OnePlusBuds</accessory>
+</accessories>
+<accessories>
+<accessory>OnePlusWarpCharger</accessory>
+</accessories>
+</phone>
+<phone id="OnePlusNordN20">
+<name>OnePlus Nord N20</name>
+<price>299.99</price>
+<image>OnePlus Nord N20.jpg</image>
+<manufacturer>OnePlus</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+<accessories>
+<accessory>OnePlusBuds</accessory>
+</accessories>
+<accessories>
+<accessory>OnePlusWarpCharger</accessory>
+</accessories>
+</phone>
+<phone id="SamsungGalaxyS10+">
+<name>Samsung Galaxy S10+</name>
+<price>424.99</price>
+<image>Samsung Galaxy S10+.jpg</image>
+<manufacturer>Samsung</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</phone>
+<phone id="SamsungGalaxyS22">
+<name>Samsung Galaxy S22</name>
+<price>849.99</price>
+<image>SAMSUNG Galaxy S22.jpg</image>
+<manufacturer>Samsung</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</phone>
+<phone id="SamsungGalaxyZ">
+<name>Samsung Galaxy Z</name>
+<price>959.99</price>
+<image>SAMSUNG Galaxy Z.jpg</image>
+<manufacturer>Samsung</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</phone>
+</PhoneCatalog>
+<LaptopCatalog>
+<laptop id="AppleMacBookAir">
+<name>Apple MacBook Air</name>
+<price>1199.99</price>
+<image>Apple MacBook Air Laptop.jpg</image>
+<manufacturer>Apple</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</laptop>
+<laptop id="AppleMacBookPro">
+<name>Apple MacBook Pro</name>
+<price>899.99</price>
+<image>Apple MacBook Pro.jpg</image>
+<manufacturer>Apple</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</laptop>
+<laptop id="DellInspiron15">
+<name>DellInspiron15</name>
+<price>849.98</price>
+<image>Dell Inspiron 15 Laptop.jpg</image>
+<manufacturer>Dell</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+<accessories>
+<accessory>LaptopStand</accessory>
+</accessories>
+<accessories>
+<accessory>WirelessMouse</accessory>
+</accessories>
+<accessories>
+<accessory>LaptopCase</accessory>
+</accessories>
+</laptop>
+<laptop id="DellInspiron3510">
+<name>DellInspiron3510</name>
+<price>449.00</price>
+<image>Dell Inspiron 3510 Laptop.jpg</image>
+<manufacturer>Dell</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+<accessories>
+<accessory>LaptopStand</accessory>
+</accessories>
+<accessories>
+<accessory>WirelessMouse</accessory>
+</accessories>
+<accessories>
+<accessory>LaptopCase</accessory>
+</accessories>
+</laptop>
+<laptop id="DellLatitude7480">
+<name>DellLatitude7480</name>
+<price>599.00</price>
+<image>Dell Latitude 7480 Laptop.jpg</image>
+<manufacturer>Dell</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+<accessories>
+<accessory>LaptopStand</accessory>
+</accessories>
+<accessories>
+<accessory>WirelessMouse</accessory>
+</accessories>
+<accessories>
+<accessory>LaptopCase</accessory>
+</accessories>
+</laptop>
+<laptop id="HP14">
+<name>HP 14</name>
+<price>325.00</price>
+<image>HP 14 Laptop.jpg</image>
+<manufacturer>HP</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</laptop>
+<laptop id="HPPavilion15.6FHD">
+<name>HP Pavilion 15.6 FHD</name>
+<price>694.00</price>
+<image>HP Pavilion 15.6 FHD Laptop.jpg</image>
+<manufacturer>HP</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</laptop>
+<laptop id="HPStream">
+<name>HP Stream</name>
+<price>199.00</price>
+<image>HP Stream 14-inch Laptop.jpg</image>
+<manufacturer>HP</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</laptop>
+</LaptopCatalog>
+<WearableTechnologyCatalog>
+<wt id="Dosmarter">
+<name>Dosmarter</name>
+<price>59.94</price>
+<image>DoSmarter.jpg</image>
+<manufacturer>Fitness Watches</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</wt>
+<wt id="HAFURY">
+<name>HAFURY</name>
+<price>32.99</price>
+<image>Hafury.jpg</image>
+<manufacturer>Fitness Watches</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</wt>
+<wt id="MorePro">
+<name>MorePro</name>
+<price>49.99</price>
+<image>MorePro.jpg</image>
+<manufacturer>Fitness Watches</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</wt>
+<wt id="Amazfit">
+<name>Amazfit</name>
+<price>59.99</price>
+<image>Amazfit smartwatch.jpg</image>
+<manufacturer>Smart Watches</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</wt>
+<wt id="Samsung">
+<name>Samsung</name>
+<price>129.99</price>
+<image>samsung_smartwatch.jpg</image>
+<manufacturer>Smart Watches</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</wt>
+<wt id="6S">
+<name>6S</name>
+<price>25.99</price>
+<image>6S.jpg</image>
+<manufacturer>Headphones</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</wt>
+<wt id="BeatsStudio3">
+<name>Beats Studio3</name>
+<price>349.99</price>
+<image>beats studio3.jpg</image>
+<manufacturer>Headphones</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</wt>
+<wt id="Sony">
+<name>Sony</name>
+<price>349.99</price>
+<image>sony.jpg</image>
+<manufacturer>Headphones</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</wt>
+<wt id="Zihnic">
+<name>Zihnic</name>
+<price>15.00</price>
+<image>zihnic.jpg</image>
+<manufacturer>Headphones</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</wt>
+<wt id="RokidAir">
+<name>Rokid Air</name>
+<price>469.99</price>
+<image>Rokid Air.jpg</image>
+<manufacturer>Virtual Reality</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</wt>
+<wt id="HTC VIVEPro">
+<name>HTC VIVEPro</name>
+<price>1124.22</price>
+<image>HTC VIVE Pro.jpg</image>
+<manufacturer>Virtual Reality</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</wt>
+<wt id="MetaQuest2">
+<name>Meta Quest2</name>
+<price>399.99</price>
+<image>Meta Quest 2.jpg</image>
+<manufacturer>Virtual Reality</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</wt>
+<wt id="JiobitGPSlocationmonitor">
+<name>Jiobit GPS location monitor</name>
+<price>129.99</price>
+<image>Jiobit.jpg</image>
+<manufacturer>Pet Tracker</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</wt>
+<wt id="AppleAirTagPetTracker">
+<name>Apple AirTag Pet Tracker </name>
+<price>22.48</price>
+<image>Apple AirTag Pet Tracker.jpg</image>
+<manufacturer>Pet Tracker</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</wt>
+</WearableTechnologyCatalog>
+<VoiceAssistantCatalog>
+<va id="GoogleHomeMini">
+<name>Google Home Mini</name>
+<price>89.99</price>
+<image>Google Home Mini Smart Assistant.jpg</image>
+<manufacturer>Google</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</va>
+<va id="GoogleHome">
+<name>Google Home</name>
+<price>99.99</price>
+<image>Google Home Smart Assistant.jpg</image>
+<manufacturer>Google</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</va>
+<va id="GoogleNest">
+<name>Google Nest</name>
+<price>69.99</price>
+<image>Google Nest.jpg</image>
+<manufacturer>Google</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</va>
+<va id="EchoDot(4thGen)">
+<name>Echo Dot (4th Gen)</name>
+<price>79.99</price>
+<image>Echo Dot (4th Gen).jpg</image>
+<manufacturer>Amazon</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</va>
+<va id="EchoDot(3rd Gen)">
+<name>Echo Dot (3rd Gen)</name>
+<price>39.99</price>
+<image>Echo Dot (3rd Gen).jpg</image>
+<manufacturer>Amazon</manufacturer>
+<condition>New</condition>
+<discount>5.0</discount>
+</va>
+</VoiceAssistantCatalog>
+<AccessoryCatalog>
+<accessory id="OnePlusBuds">
+<name>OnePlusBuds</name>
+<price>129.95</price>
+<image>OnePlus Buds.jpg</image>
+<manufacturer>OnePlus</manufacturer>
+<condition>New</condition>
+<discount>20.0</discount>
+</accessory>
+<accessory id="OnePlusWarpCharger">
+<name>OnePlusWarpCharger</name>
+<price>21.99</price>
+<image>OnePlus Warp Charger.jpg</image>
+<manufacturer>OnePlus</manufacturer>
+<condition>New</condition>
+<discount>20.0</discount>
+</accessory>
+<accessory id="LaptopStand">
+<name>LaptopStand</name>
+<price>34.99</price>
+<image>Soundance Laptop Stand.jpg</image>
+<manufacturer>Dell</manufacturer>
+<condition>New</condition>
+<discount>20.0</discount>
+</accessory>
+<accessory id="WirelessMouse">
+<name>WirelessMouse</name>
+<price>10.79</price>
+<image>Wireless Mouse.jpg</image>
+<manufacturer>Dell</manufacturer>
+<condition>New</condition>
+<discount>20.0</discount>
+</accessory>
+<accessory id="LaptopCase">
+<name>LaptopCase</name>
+<price>15.98</price>
+<image>Ytonet Laptop Case.jpg</image>
+<manufacturer>Dell</manufacturer>
+<condition>New</condition>
+<discount>20.0</discount>
+</accessory>
+</AccessoryCatalog>
+</ProductCatalog>
